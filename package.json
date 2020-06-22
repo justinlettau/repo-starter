@@ -17,6 +17,8 @@
   "bugs": {
     "url": "https://github.com/justinlettau/{REPO_NAME}/issues"
   },
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
   "files": [
     "dist"
   ],
